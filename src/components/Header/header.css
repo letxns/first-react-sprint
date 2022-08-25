@@ -1,0 +1,45 @@
+.app{
+    background-color: white;
+}
+/* .header{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    color: #FFFFFF;
+    background-color: #707070;    
+} */
+
+.header{
+    background: #707070 0% 0% no-repeat padding-box;
+    border: 1px solid #707070;
+    opacity: 1;   
+    width: 100%;
+}
+
+.header-selecao{
+    font-size: 20px;
+    margin-top: 5%;
+}
+
+.header-especial{
+    font-size: 40px;
+    font-weight: bolder;
+    margin: 2% 0;
+}
+
+.header-todos{
+    font-size: 14px;
+}
+
+.btn-header{
+    display: flex;
+    justify-content: center;
+    margin: 2%;
+}
+
+.btn-header_item{
+    background-color: #FFFFFF;
+    color: #888888;
+    border-radius: 10px;
+    margin: 5% 2% 0 0;
+}

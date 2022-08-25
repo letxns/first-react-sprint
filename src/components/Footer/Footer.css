@@ -1,0 +1,9 @@
+.footer{
+    background-color: #707070;
+    color: #FFFFFF;
+    margin: 5% 0;
+}
+
+.footer-content, .footer-content_testando, .footer-content_impulse{
+    margin: 1% 0;
+}

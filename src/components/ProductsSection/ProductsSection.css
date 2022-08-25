@@ -1,0 +1,12 @@
+.products-section{
+    color: #888888;
+    font-weight: bolder;
+}
+
+.btn-compras{
+    width: auto;
+    background-color: #FFFFFF;
+    color: #888888;
+    border: 1px solid #888888;
+    margin-bottom: 15%;
+}
